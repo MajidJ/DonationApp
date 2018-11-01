@@ -20,7 +20,7 @@ const Team = () => (
 						<div className="card-body">
 							<h5 className="card-title">Robert Queeney</h5>
 							<hr/>
-							<p className="card-text">Project Manager/Frontend. Quiet Conqueror.  Big Boss Man.  Sad puppy human hybrid.   Up too late. Breeder of disease-ridden offspring.</p>
+							<p className="card-text">Project manager and frontend development.</p>
 							<p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
@@ -35,9 +35,9 @@ const Team = () => (
 							</div>
 						</div>
 						<div className="card-body">
-							<h5 className="card-title">Majid (No last name like Cher, or Chingy)</h5>
+							<h5 className="card-title">Majid Jamaleldine</h5>
 							<hr/>
-							<p className="card-text">Frontend Development. Prefers to live in chaos.</p>
+							<p className="card-text">Leading front-end design, mockups and development.</p>
 							<p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
@@ -54,7 +54,7 @@ const Team = () => (
 						<div className="card-body">
 							<h5 className="card-title">Maddy Fiksdal</h5>
 							<hr/>
-							<p className="card-text">Front and Backend Development. Stripe implementation.</p>
+							<p className="card-text">Front and backend development. Stripe implementation.</p>
 							<p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
@@ -71,7 +71,7 @@ const Team = () => (
 						<div className="card-body">
 							<h5 className="card-title">Daniel Thweatt</h5>
 							<hr/>
-							<p className="card-text">Backend Development. Database management and Passport implementation. </p>
+							<p className="card-text">Backend development. Database management and Passport implementation. </p>
 							<p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>
@@ -88,7 +88,7 @@ const Team = () => (
 						<div className="card-body">
 							<h5 className="card-title">Cavan Wagg</h5>
 							<hr/>
-							<p className="card-text">Front and Backend Development. Stripe implementation.</p>
+							<p className="card-text">Front and backend integration. Stripe implementation.</p>
 							<p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
 						</div>
 					</div>

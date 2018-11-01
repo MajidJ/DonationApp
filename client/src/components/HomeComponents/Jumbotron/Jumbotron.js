@@ -11,7 +11,7 @@ class Jumbotron extends React.Component {
                 <div className="white-box"/>
                 <div className="inner">
                     <h1>Love Foundation</h1>
-                    <p className="lead lead-text">Making sure the Earth exists for the next generation.</p>
+                    <p className="lead lead-text">Template code for a standalone website with stripe integration for micro donations</p>
                 </div>
                 {/* <hr className="my-4"></hr>
                 <p className="lead">

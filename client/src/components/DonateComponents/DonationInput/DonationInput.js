@@ -235,6 +235,7 @@ class DonationInput extends Component {
 			<div className = "donation-input-card">
 				<center>
 					<h2>Donate</h2>
+					<h5><i>(Use credit card number 4242 4242 4242 4242 and a future expiration date to test Stripe)</i></h5>
 					<hr/>
 				</center>
 				<DonateOptions
